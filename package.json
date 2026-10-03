@@ -1,0 +1,14 @@
+{
+  "name": "arxmods",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ARX MODS TM — premium resources, tools and communities for developers and modding enthusiasts.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "npx vercel dev",
+    "deploy": "npx vercel --prod"
+  }
+}
